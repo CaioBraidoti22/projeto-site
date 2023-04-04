@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>Lista de Filmes</title>
+</head>
+<body>
+<a href="#habilite-gzip"></a>
+<li><a href="#primeiro">1 – Ukraine on Fire</a>
+<li><a href="#segundo">2 – Bad roads</a>
+<li><a href="#terceiro">3 – Winter on Fire</a>
+<li><a href="#quarto">4 – As testemunhas de Putin</a>
+<li><a href="#quinto">5 – A Última resistência</a>
+<li><a href="#sesto">6 – A sombra de Stalin</a>
+<li><a href="#setimo">7 – Entrevistas com Putin</a>
+<li><a href="#oitavo">8 – Donbass</a>
+<li><a href="#nono">9 – The Earth is blue as an orange</a>
+<li><a href="#decimo">10 – Ponte dos Espiões</a>
+<pre>
+<p><strong>A guerra entre Rússia e Ucrânia tem tomado conta dos noticiários de todo o mundo nas últimas semanas. Ainda assim, para quem nunca ouviu falar sobre os conflitos entre 
+os dois países, fica um pouco difícil entender o que de fato está acontecendo. Para ajudar quem quer conhecer as raízes da guerra, separamos uma lista com filmes e documentários 
+que contextualizam o que está acontecendo.</strong></p>
+<ul type="circle">
+<li><a name="primeira">1 – Ukraine on Fire</a></li>
+<ol type="I">
+<ul type="square">
+<li>A produção, que está disponível no Youtube, situa a Ucrânia como um país historicamente dividido por conflitos e mostra os discursos do presidente russo Vladimir Putin. </li>
+</OL>
+
+<li><a name="segunda">2 – Bad roads</a></li>
+<ol type="I">
+<ul type="square">
+<li>O longa gira em torno de 4 histórias que se desenrolam nas estradas de Donbass. Fronteira entre a Rússia e a Ucrânia e lar de desavenças antigas, Donbass é a região que 
+abriga Donetsk e Luhansk, as repúblicas separatistas pró-Rússia. Essa região está em conflito desde 2014.</li>
+</OL>
+
+<li><a name="terceiro">3 – Winter on Fire</a></li>
+<ol type="I">
+<ul type="square">
+<li>O documentário da Netflix começa com cenas de guerra civil na praça Maidan. A produção traz um breve histórico da Ucrânia, apresentada a partir da independência da União 
+Soviética, em 1991 e a Revolução Laranja, de 2004. </li>
+</OL>
+
+<li><a name="quarto">4 – As testemunhas de Putin</a></li>
+<ol type="I">
+<ul type="square">
+<li>O documentário fala da trajetória de Vladimir Putin, que foi de espião a político e hoje está à frente do país com maior potencial nuclear do mundo. A produção resgata 
+as imagens capturadas pelo diretor Vitaly Mansky, o cineasta russo que foi o responsável por produzir um documentário para promover Putin nas eleições de 2000 e hoje se encontra 
+auto-exilado na Letônia.</li>
+</OL>
+
+<li><a name="quinto">5 – A Última resistência</a></li>
+<ol type="I">
+<ul type="square">
+<li>O longa acompanha a luta de militares ucranianos voluntários no Aeroporto de Donetsk, em 2014, durante a Guerra Civil no Leste da Ucrânia. Apesar de não ser no mesmo 
+cenário, a produção ajuda a entender o que acontece hoje na Ucrânia, visto que narra um dos conflitos mais importantes entre os dois países.</li>
+</OL>
+
+<li><a name="sesto">6 – A sombra de Stalin</a></li>
+<ol type="I">
+<ul type="square">
+<li>O filme acompanha um jornalista galês que viaja para a União Soviética em 1933 e descobre condições de vida lamentáveis, contraditórias ao que era pregado para o resto do 
+mundo. Ele passa por poucas e boas enquanto tenta desmascarar a utopia soviética, perde um amigo assassinado, descobre absurdos em uma viagem clandestina à Ucrânia, além de ser 
+expulso, chantageado e vítima de uma campanha de difamação. </li>
+</OL>
+
+<li><a name="setimo">7 – Entrevistas com Putin</a></li>
+<ol type="I">
+<ul type="square">
+<li>O documentário de 4 partes traça um perfil de Putin bastante diferente do que é divulgado em grande parte dos noticiários. A produção, resultado de uma série de 
+entrevistas, conta um pouco do outro lado da história e apresenta uma visão diferente sobre os conflitos.</li>
+</OL>
+
+<li><a name="oitavo">8 – Donbass</a></li>
+<ol type="I">
+<ul type="square">
+<li>Apresentado como uma comédia um tanto chocante, Donbass se passa na região que dá nome ao filme e que é palco de diversos conflitos entre a Rússia e a Ucrânia. No 
+longa, o diretor Sergei Loznitsa mostra as consequências da manipulação e propaganda para a sociedade. O filme apresenta cenas de violência extrema e com a tortura sendo 
+retratada em longas sequências.</li>
+</OL>
+
+<li><a name="nono">9 – The Earth is blue as an orange</a></li>
+<ol type="I">
+<ul type="square">
+<li>O documentário conta a história de uma mãe que cria seus quatro filhos sozinha em Donbass, na zona de conflitos. Ela tenta ao máximo deixar o ambiente violento fora 
+de casa e manter sua família segura dos bombardeios constantes.O longa acumula prêmios, entre eles o de melhor filme e o de melhor filme humanitário.</li>
+</OL>
+
+<li><a name="decimo">10 – Ponte dos Espiões</a></li>
+<ol type="I">
+<ul type="square">
+<li>Dirigido por Steven Spielberg e estrelado por Tom Hanks e Mark Rylance, o filme tem como plano de fundo a Guerra Fria. No longa, o advogado James Donovan (Hanks) 
+precisa passar por cima da sua falta de experiência para negociar a troca de um prisioneiro americano capturado pela União Soviética e de um espião soviético capturado
+pelos americanos.</li>
+</OL>
+
+
+</ul>
+</UL>
+</ul>
+</UL>
+</ul>
+</UL>
+</ul>
+</UL>
+</ul>
+</UL>
+<li><a href="#">Volte ao topo</a></li>
+<p><a href="index.html">VOLTAR</A>PARA VOLTAR A PAGINA ANTERIOR</P>
+</pre>
+</body>
+</html>

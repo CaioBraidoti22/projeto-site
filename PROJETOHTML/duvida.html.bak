@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>Duvidas</title>
+<style>
+ul{font-size:18pt;
+  line-height:50px; }
+ p{font-size:18pt;}
+</style>
+
+</head>
+
+<body>
+<form ACTION="sucesso.html" METHOD="GET">
+<fieldset>
+<legend>Nome e Sobrenome</legend>
+<p><LABEL FOR="CNOME"></LABEL><input type="text" name="nome" ID="CNOME" size="50" maxlength="15" PLACEHOLDER="NOME" AUTOCOMPLETE="OFF"REQUIRED></p>
+<p><LABEL FOR="CNOME"></LABEL><input type="text" name="nome" ID="CNOME" size="50" maxlength="40" PLACEHOLDER="Sobrenome" AUTOCOMPLETE="OFF"REQUIRED></p>
+</fieldset>
+<fieldset>
+<legend>Seu criterio</legend>
+<pre>
+<P>O que achou do site: 
+<INPUT TYPE="RADIO" NANE="NOTA"VALUE="F">Ruim 
+<INPUT TYPE="RADIO" NAME="NOTA" VALUE="M">Medio 
+<INPUT TYPE="RADIO" NAME="NOTA" VALUE="S">Bom </P>
+</pre>
+</fieldset>
+<fieldset>
+<legend>Relatar erro</legend>
+
+<label>Nós conte de algum erro que possamos te ajudar</label>
+
+<p><textarea name="relatar" rows="4" cols="50">
+Nós relate aqui algum erro!!!
+</textarea></p>
+</fieldset>
+
+<p><INPUT TYPE="reset" VALUE="CANCELAR"></p>
+
+
+
+<p><INPUT TYPE="CHECKBOX" NAME="INF" VALUE="SIM">Me deixe informado sobre este site</p>
+<p><INPUT TYPE="SUBMIT" VALEU="ENVIAR DADOS"></p>
+</form>
+<p><a href="mailto:kayke.goncalves.ricardo.santos@fateb.br?SUBJECT=NÓS FALE DO QUE NECESSITA&BODY=ESCREVE SUA DUVIDA OU OPINIÃO PARA NOSSA MELHORA AQUI..."> FALE CONOSCO </a></p>
+<p><a href="index.html">VOLTAR</A>PARA VOLTAR A PAGINA ANTERIOR</P>
+</body>
+</html>
